@@ -3,11 +3,11 @@ import React from 'react';
 class Back extends React.Component {
   render () {
     var backStyle = {
-      color: 'blue'
+      color: 'pink'
     };
 
     return (
-      <div styles = {backStyle}>
+      <div style = {backStyle}>
         <h5>Back</h5>
       </div>
     )
